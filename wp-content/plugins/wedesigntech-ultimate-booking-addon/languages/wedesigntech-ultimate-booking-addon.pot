@@ -1,0 +1,2849 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Booking Manager Plugin\n"
+"POT-Creation-Date: 2023-06-19 15:19+0530\n"
+"PO-Revision-Date: 2017-01-06 19:39+0530\n"
+"Last-Translator: Ramamoorthi <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../cs-framework-override/config/shortcodes/base.php:29
+msgid "Reservation"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:10
+msgid "Reservaton Form"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:16
+#: ../cs-framework-override/config/shortcodes/reserve_appointment.php:16
+#: ../cs-framework-override/config/shortcodes/service_list.php:47
+#: ../post-types/dt-service-post-type.php:434
+#: ../post-types/dt-staff-post-type.php:832
+#: ../reservation/cron/send_agenda_cron.php:64
+#: ../reservation/dt-customer-post-type.php:190
+#: ../reservation/dt-payment-post-type.php:234
+#: ../reservation/menu/calendar/calendar.php:66
+#: ../vc/modules/reservation_form.php:13
+#: ../vc/modules/reserve_appointment.php:13
+#: ../vc/modules/service_list.php:49
+#: ../widgets/modules/class-widget-reservation-form.php:27
+#: ../widgets/modules/class-widget-reserve-appointment.php:27
+#: ../widgets/modules/class-widget-service-list.php:57
+#: ../widgets/modules/class-widget-view-reservations.php:27
+msgid "Title"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:21
+#: ../vc/modules/reservation_form.php:24
+#: ../widgets/modules/class-widget-reservation-form.php:33
+#: ../widgets/modules/class-widget-service-item.php:38
+msgid "Service IDs"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:28
+msgid "Select Some Services"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:32
+#: ../vc/modules/reservation_form.php:36
+msgid "Enter service name & pick."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:37
+#: ../vc/modules/reservation_form.php:42
+#: ../widgets/modules/class-widget-reservation-form.php:41
+msgid "Staff IDs"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:44
+msgid "Select Some Staffs"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reservation_form.php:48
+#: ../vc/modules/reservation_form.php:54
+msgid "Enter staff name & pick."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reserve_appointment.php:10
+#: ../vc/modules/reserve_appointment.php:3
+#: ../widgets/modules/class-widget-reserve-appointment.php:13
+msgid "Reserve Appointment"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reserve_appointment.php:21
+#: ../cs-framework-override/config/shortcodes/service_item.php:27
+#: ../cs-framework-override/config/shortcodes/service_list.php:49
+#: ../cs-framework-override/config/shortcodes/staff_item.php:27
+#: ../vc/modules/reserve_appointment.php:24
+#: ../vc/modules/service_item.php:26 ../vc/modules/service_list.php:51
+#: ../vc/modules/staff_item.php:26
+#: ../vc/shortcodes/view_reservations.php:105
+#: ../widgets/modules/class-widget-reserve-appointment.php:33
+#: ../widgets/modules/class-widget-service-item.php:46
+#: ../widgets/modules/class-widget-service-list.php:59
+#: ../widgets/modules/class-widget-staff-item.php:46
+msgid "Type"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reserve_appointment.php:23
+#: ../vc/modules/reserve_appointment.php:27
+#: ../widgets/modules/class-widget-reserve-appointment.php:37
+#: ../widgets/modules/class-widget-service-item.php:50
+#: ../widgets/modules/class-widget-staff-item.php:50
+msgid "Type - I"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reserve_appointment.php:24
+#: ../vc/modules/reserve_appointment.php:28
+#: ../widgets/modules/class-widget-reserve-appointment.php:38
+#: ../widgets/modules/class-widget-service-item.php:51
+#: ../widgets/modules/class-widget-staff-item.php:51
+msgid "Type - II"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/reserve_appointment.php:28
+msgid "Choose type of reservation to display."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:10
+#: ../cs-framework-override/config/shortcodes/service_list.php:10
+#: ../post-types/dt-service-post-type.php:75
+#: ../post-types/dt-service-post-type.php:161
+#: ../post-types/dt-service-post-type.php:334
+#: ../reservation/cron/send_agenda_cron.php:67
+#: ../reservation/dt-payment-post-type.php:106
+#: ../reservation/menu/calendar/calendar.php:47
+#: ../vc/modules/service_item.php:4 ../vc/modules/service_list.php:4
+#: ../vc/shortcodes/view_reservations.php:103
+#: ../widgets/modules/class-widget-service-item.php:22
+#: ../widgets/modules/class-widget-service-item.php:25
+#: ../widgets/modules/class-widget-service-list.php:22
+#: ../widgets/modules/class-widget-service-list.php:25
+msgid "Service"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:21
+#: ../vc/modules/service_item.php:17
+msgid "Enter Service ID"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:22
+msgid ""
+"Enter IDs of services to display. More than one ids with comma(,) "
+"seperated."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:29
+#: ../cs-framework-override/config/shortcodes/staff_item.php:29
+#: ../vc/modules/service_item.php:29 ../vc/modules/staff_item.php:29
+msgid "Type - 1"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:30
+#: ../cs-framework-override/config/shortcodes/staff_item.php:30
+#: ../vc/modules/service_item.php:30 ../vc/modules/staff_item.php:30
+msgid "Type - 2"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:34
+msgid "Choose type of services to display."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:39
+#: ../vc/modules/service_item.php:42
+#: ../widgets/modules/class-widget-service-item.php:56
+msgid "Show Excerpt?"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:41
+#: ../cs-framework-override/config/shortcodes/service_item.php:59
+#: ../cs-framework-override/config/shortcodes/staff_item.php:41
+#: ../vc/modules/service_item.php:39 ../vc/modules/service_item.php:59
+#: ../vc/modules/staff_item.php:39
+#: ../widgets/modules/class-widget-service-item.php:60
+#: ../widgets/modules/class-widget-service-item.php:76
+#: ../widgets/modules/class-widget-staff-item.php:61
+#: ../widgets/modules/class-widget-staff-item.php:71
+msgid "Yes"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:42
+#: ../cs-framework-override/config/shortcodes/service_item.php:60
+#: ../cs-framework-override/config/shortcodes/staff_item.php:42
+#: ../post-types/dt-service-post-type.php:92
+#: ../post-types/dt-service-post-type.php:93
+#: ../post-types/dt-staff-post-type.php:96
+#: ../post-types/dt-staff-post-type.php:97 ../vc/modules/service_item.php:40
+#: ../vc/modules/service_item.php:60 ../vc/modules/staff_item.php:40
+#: ../widgets/modules/class-widget-service-item.php:61
+#: ../widgets/modules/class-widget-service-item.php:77
+#: ../widgets/modules/class-widget-staff-item.php:62
+#: ../widgets/modules/class-widget-staff-item.php:72
+msgid "No"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:46
+msgid "Choose \"Yes\" to show excerpt."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:51
+#: ../post-types/dt-service-post-type.php:205
+#: ../vc/modules/service_item.php:49
+#: ../widgets/modules/class-widget-service-item.php:66
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:57
+#: ../vc/modules/service_item.php:62
+#: ../widgets/modules/class-widget-service-item.php:72
+msgid "Show Meta?"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:64
+msgid "Choose \"Yes\" to show meta."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:69
+#: ../cs-framework-override/config/shortcodes/staff_item.php:51
+#: ../vc/modules/service_item.php:69 ../vc/modules/staff_item.php:49
+#: ../widgets/modules/class-widget-service-item.php:82
+#: ../widgets/modules/class-widget-staff-item.php:77
+msgid "Button Text"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:70
+#: ../vc/modules/service_item.php:71 ../vc/shortcodes/service_item.php:18
+#: ../widgets/modules/class-widget-service-item.php:84
+msgid "View procedure details"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_item.php:71
+#: ../cs-framework-override/config/shortcodes/staff_item.php:53
+#: ../vc/modules/service_item.php:72 ../vc/modules/staff_item.php:52
+msgid "Enter button text."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:15
+#: ../vc/modules/service_list.php:8
+#: ../widgets/modules/class-widget-service-list.php:13
+msgid " List"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:21
+#: ../vc/modules/service_list.php:17
+#: ../widgets/modules/class-widget-service-list.php:38
+msgid "Terms"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:29
+msgid "Select service category"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:33
+msgid "Choose service as you want."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:38
+#: ../vc/modules/service_list.php:35
+#: ../widgets/modules/class-widget-service-list.php:46
+msgid "Products Per Page"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:44
+#: ../vc/modules/service_list.php:44
+#: ../widgets/modules/class-widget-service-list.php:52
+msgid "Order by"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:46
+#: ../cs-framework/classes/options.class.php:155
+#: ../vc/modules/service_list.php:48
+#: ../widgets/modules/class-widget-service-list.php:56
+msgid "ID"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:48
+#: ../post-types/dt-service-post-type.php:139
+#: ../post-types/dt-service-post-type.php:240
+#: ../post-types/dt-service-post-type.php:248
+#: ../post-types/dt-service-post-type.php:256
+#: ../post-types/dt-service-post-type.php:264
+#: ../post-types/dt-staff-post-type.php:143
+#: ../post-types/dt-staff-post-type.php:252
+#: ../post-types/dt-staff-post-type.php:260
+#: ../post-types/dt-staff-post-type.php:268
+#: ../post-types/dt-staff-post-type.php:276
+#: ../vc/modules/service_list.php:50
+#: ../vc/shortcodes/reservation_form.php:42
+#: ../widgets/modules/class-widget-service-list.php:58
+msgid "Name"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:50
+#: ../reservation/menu/calendar/calendar.php:28
+#: ../vc/modules/service_list.php:52
+#: ../vc/shortcodes/view_reservations.php:102
+#: ../widgets/modules/class-widget-service-list.php:60
+msgid "Date"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:51
+#: ../vc/modules/service_list.php:53
+#: ../widgets/modules/class-widget-service-list.php:61
+msgid "Random"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:55
+msgid "Choose orderby of services to display."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:60
+#: ../vc/modules/service_list.php:60
+#: ../widgets/modules/class-widget-service-list.php:66
+msgid "Sort order"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:62
+#: ../vc/modules/service_list.php:64
+#: ../widgets/modules/class-widget-service-list.php:70
+msgid "Descending"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:63
+#: ../vc/modules/service_list.php:65
+#: ../widgets/modules/class-widget-service-list.php:71
+msgid "Ascending"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:67
+msgid "Choose order of services to display."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:72
+#: ../vc/modules/service_list.php:72
+#: ../widgets/modules/class-widget-reservation-form.php:50
+#: ../widgets/modules/class-widget-reserve-appointment.php:45
+#: ../widgets/modules/class-widget-service-list.php:77
+#: ../widgets/modules/class-widget-view-reservations.php:34
+msgid "Extra class name"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/service_list.php:73
+#: ../vc/modules/service_list.php:74
+msgid ""
+"If you wish to style particular content element differently, then use "
+"this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/staff_item.php:10
+#: ../post-types/dt-staff-post-type.php:80
+#: ../post-types/dt-staff-post-type.php:165
+#: ../post-types/dt-staff-post-type.php:361 ../vc/modules/staff_item.php:4
+#: ../widgets/modules/class-widget-staff-item.php:22
+#: ../widgets/modules/class-widget-staff-item.php:25
+msgid "Staff"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/staff_item.php:21
+#: ../vc/modules/staff_item.php:17
+#: ../widgets/modules/class-widget-staff-item.php:38
+msgid "Enter Staff ID"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/staff_item.php:22
+msgid ""
+"Enter ID of staff to display. More than one ids with comma(,) seperated."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/staff_item.php:34
+msgid "Choose type of staffs to display."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/staff_item.php:39
+#: ../vc/modules/staff_item.php:42
+#: ../widgets/modules/class-widget-staff-item.php:57
+msgid "Show button?"
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/staff_item.php:46
+msgid "Choose \"Yes\" to show button."
+msgstr ""
+
+#: ../cs-framework-override/config/shortcodes/staff_item.php:52
+#: ../vc/modules/staff_item.php:51 ../vc/shortcodes/staff_item.php:16
+#: ../widgets/modules/class-widget-staff-item.php:79
+msgid "Book an appointment"
+msgstr ""
+
+#: ../cs-framework-override/fields/text/text.php:21
+msgid "Menu Slug"
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:171
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:176
+msgid "Default options restored."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:195
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:333
+msgid "Settings saved."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:335
+msgid "Save"
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:335
+msgid "Saving..."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:336
+msgid "Restore"
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:339
+#: ../cs-framework/fields/backup/backup.php:29
+msgid "Reset All Options"
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:343
+msgid "show all options"
+msgstr ""
+
+#: ../cs-framework/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: ../cs-framework/classes/options.class.php:131
+#: ../cs-framework/classes/options.class.php:151
+msgid "USAGE"
+msgstr ""
+
+#: ../cs-framework/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: ../cs-framework/classes/options.class.php:227
+#, php-format
+msgid "You are editing language: ( %s )"
+msgstr ""
+
+#: ../cs-framework/classes/shortcode.class.php:82
+#: ../cs-framework/classes/shortcode.class.php:90
+#: ../cs-framework/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../cs-framework/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: ../cs-framework/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../cs-framework/fields/background/background.php:34
+#: ../cs-framework/fields/background/background.php:35
+#: ../cs-framework/fields/upload/upload.php:23
+#: ../cs-framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: ../cs-framework/fields/background/background.php:36
+#: ../cs-framework/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: ../cs-framework/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: ../cs-framework/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: ../cs-framework/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: ../cs-framework/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: ../cs-framework/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: ../cs-framework/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: ../cs-framework/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../cs-framework/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: ../cs-framework/fields/group/group.php:22
+msgid "Adding"
+msgstr ""
+
+#: ../cs-framework/fields/group/group.php:45
+#: ../cs-framework/fields/group/group.php:77
+msgid "Remove"
+msgstr ""
+
+#: ../cs-framework/fields/icon/icon.php:25
+#: ../cs-framework/functions/actions.php:82
+msgid "Add Icon"
+msgstr ""
+
+#: ../cs-framework/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: ../cs-framework/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#: ../cs-framework/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: ../cs-framework/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: ../cs-framework/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: ../cs-framework/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: ../cs-framework/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: ../cs-framework/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: ../cs-framework/fields/typography/typography.php:107
+#: ../cs-framework/functions/actions.php:32
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: ../cs-framework/functions/actions.php:83
+msgid "Search a Icon..."
+msgstr ""
+
+#: ../cs-framework/functions/actions.php:84
+msgid "Loading..."
+msgstr ""
+
+#: ../cs-framework/functions/helpers.php:49
+msgid "This field class is not available!"
+msgstr ""
+
+#: ../cs-framework/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: ../cs-framework/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: ../cs-framework/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: ../functions/cal-reservation-functions.php:260
+msgid "Available timings on "
+msgstr ""
+
+#: ../functions/core-functions.php:93
+#, php-format
+msgid "%d hr"
+msgstr ""
+
+#: ../functions/core-functions.php:93
+#, php-format
+msgid "%d hrs"
+msgstr ""
+
+#: ../functions/core-functions.php:100
+#, php-format
+msgid "%d mins"
+msgstr ""
+
+#: ../functions/core-functions.php:166
+msgid "United Arab Emirates dirham"
+msgstr ""
+
+#: ../functions/core-functions.php:167
+msgid "Afghan afghani"
+msgstr ""
+
+#: ../functions/core-functions.php:168
+msgid "Albanian lek"
+msgstr ""
+
+#: ../functions/core-functions.php:169
+msgid "Armenian dram"
+msgstr ""
+
+#: ../functions/core-functions.php:170
+msgid "Netherlands Antillean guilder"
+msgstr ""
+
+#: ../functions/core-functions.php:171
+msgid "Angolan kwanza"
+msgstr ""
+
+#: ../functions/core-functions.php:172
+msgid "Argentine peso"
+msgstr ""
+
+#: ../functions/core-functions.php:173
+msgid "Australian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:174
+msgid "Aruban florin"
+msgstr ""
+
+#: ../functions/core-functions.php:175
+msgid "Azerbaijani manat"
+msgstr ""
+
+#: ../functions/core-functions.php:176
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr ""
+
+#: ../functions/core-functions.php:177
+msgid "Barbadian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:178
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: ../functions/core-functions.php:179
+msgid "Bulgarian lev"
+msgstr ""
+
+#: ../functions/core-functions.php:180
+msgid "Bahraini dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:181
+msgid "Burundian franc"
+msgstr ""
+
+#: ../functions/core-functions.php:182
+msgid "Bermudian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:183
+msgid "Brunei dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:184
+msgid "Bolivian boliviano"
+msgstr ""
+
+#: ../functions/core-functions.php:185
+msgid "Brazilian real"
+msgstr ""
+
+#: ../functions/core-functions.php:186
+msgid "Bahamian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:187
+msgid "Bitcoin"
+msgstr ""
+
+#: ../functions/core-functions.php:188
+msgid "Bhutanese ngultrum"
+msgstr ""
+
+#: ../functions/core-functions.php:189
+msgid "Botswana pula"
+msgstr ""
+
+#: ../functions/core-functions.php:190
+msgid "Belarusian ruble"
+msgstr ""
+
+#: ../functions/core-functions.php:191
+msgid "Belize dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:192
+msgid "Canadian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:193
+msgid "Congolese franc"
+msgstr ""
+
+#: ../functions/core-functions.php:194
+msgid "Swiss franc"
+msgstr ""
+
+#: ../functions/core-functions.php:195
+msgid "Chilean peso"
+msgstr ""
+
+#: ../functions/core-functions.php:196
+msgid "Chinese yuan"
+msgstr ""
+
+#: ../functions/core-functions.php:197
+msgid "Colombian peso"
+msgstr ""
+
+#: ../functions/core-functions.php:198
+msgid "Costa Rican col&oacute;n"
+msgstr ""
+
+#: ../functions/core-functions.php:199
+msgid "Cuban convertible peso"
+msgstr ""
+
+#: ../functions/core-functions.php:200
+msgid "Cuban peso"
+msgstr ""
+
+#: ../functions/core-functions.php:201
+msgid "Cape Verdean escudo"
+msgstr ""
+
+#: ../functions/core-functions.php:202
+msgid "Czech koruna"
+msgstr ""
+
+#: ../functions/core-functions.php:203
+msgid "Djiboutian franc"
+msgstr ""
+
+#: ../functions/core-functions.php:204
+msgid "Danish krone"
+msgstr ""
+
+#: ../functions/core-functions.php:205
+msgid "Dominican peso"
+msgstr ""
+
+#: ../functions/core-functions.php:206
+msgid "Algerian dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:207
+msgid "Egyptian pound"
+msgstr ""
+
+#: ../functions/core-functions.php:208
+msgid "Eritrean nakfa"
+msgstr ""
+
+#: ../functions/core-functions.php:209
+msgid "Ethiopian birr"
+msgstr ""
+
+#: ../functions/core-functions.php:210
+msgid "Euro"
+msgstr ""
+
+#: ../functions/core-functions.php:211
+msgid "Fijian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:212
+msgid "Falkland Islands pound"
+msgstr ""
+
+#: ../functions/core-functions.php:213
+msgid "Pound sterling"
+msgstr ""
+
+#: ../functions/core-functions.php:214
+msgid "Georgian lari"
+msgstr ""
+
+#: ../functions/core-functions.php:215
+msgid "Guernsey pound"
+msgstr ""
+
+#: ../functions/core-functions.php:216
+msgid "Ghana cedi"
+msgstr ""
+
+#: ../functions/core-functions.php:217
+msgid "Gibraltar pound"
+msgstr ""
+
+#: ../functions/core-functions.php:218
+msgid "Gambian dalasi"
+msgstr ""
+
+#: ../functions/core-functions.php:219
+msgid "Guinean franc"
+msgstr ""
+
+#: ../functions/core-functions.php:220
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: ../functions/core-functions.php:221
+msgid "Guyanese dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:222
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:223
+msgid "Honduran lempira"
+msgstr ""
+
+#: ../functions/core-functions.php:224
+msgid "Croatian kuna"
+msgstr ""
+
+#: ../functions/core-functions.php:225
+msgid "Haitian gourde"
+msgstr ""
+
+#: ../functions/core-functions.php:226
+msgid "Hungarian forint"
+msgstr ""
+
+#: ../functions/core-functions.php:227
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: ../functions/core-functions.php:228
+msgid "Israeli new shekel"
+msgstr ""
+
+#: ../functions/core-functions.php:229
+msgid "Manx pound"
+msgstr ""
+
+#: ../functions/core-functions.php:230
+msgid "Indian rupee"
+msgstr ""
+
+#: ../functions/core-functions.php:231
+msgid "Iraqi dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:232
+msgid "Iranian rial"
+msgstr ""
+
+#: ../functions/core-functions.php:233
+msgid "Iranian toman"
+msgstr ""
+
+#: ../functions/core-functions.php:234
+msgid "Icelandic kr&oacute;na"
+msgstr ""
+
+#: ../functions/core-functions.php:235
+msgid "Jersey pound"
+msgstr ""
+
+#: ../functions/core-functions.php:236
+msgid "Jamaican dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:237
+msgid "Jordanian dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:238
+msgid "Japanese yen"
+msgstr ""
+
+#: ../functions/core-functions.php:239
+msgid "Kenyan shilling"
+msgstr ""
+
+#: ../functions/core-functions.php:240
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: ../functions/core-functions.php:241
+msgid "Cambodian riel"
+msgstr ""
+
+#: ../functions/core-functions.php:242
+msgid "Comorian franc"
+msgstr ""
+
+#: ../functions/core-functions.php:243
+msgid "North Korean won"
+msgstr ""
+
+#: ../functions/core-functions.php:244
+msgid "South Korean won"
+msgstr ""
+
+#: ../functions/core-functions.php:245
+msgid "Kuwaiti dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:246
+msgid "Cayman Islands dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:247
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: ../functions/core-functions.php:248
+msgid "Lao kip"
+msgstr ""
+
+#: ../functions/core-functions.php:249
+msgid "Lebanese pound"
+msgstr ""
+
+#: ../functions/core-functions.php:250
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: ../functions/core-functions.php:251
+msgid "Liberian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:252
+msgid "Lesotho loti"
+msgstr ""
+
+#: ../functions/core-functions.php:253
+msgid "Libyan dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:254
+msgid "Moroccan dirham"
+msgstr ""
+
+#: ../functions/core-functions.php:255
+msgid "Moldovan leu"
+msgstr ""
+
+#: ../functions/core-functions.php:256
+msgid "Malagasy ariary"
+msgstr ""
+
+#: ../functions/core-functions.php:257
+msgid "Macedonian denar"
+msgstr ""
+
+#: ../functions/core-functions.php:258
+msgid "Burmese kyat"
+msgstr ""
+
+#: ../functions/core-functions.php:259
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr ""
+
+#: ../functions/core-functions.php:260
+msgid "Macanese pataca"
+msgstr ""
+
+#: ../functions/core-functions.php:261
+msgid "Mauritanian ouguiya"
+msgstr ""
+
+#: ../functions/core-functions.php:262
+msgid "Mauritian rupee"
+msgstr ""
+
+#: ../functions/core-functions.php:263
+msgid "Maldivian rufiyaa"
+msgstr ""
+
+#: ../functions/core-functions.php:264
+msgid "Malawian kwacha"
+msgstr ""
+
+#: ../functions/core-functions.php:265
+msgid "Mexican peso"
+msgstr ""
+
+#: ../functions/core-functions.php:266
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: ../functions/core-functions.php:267
+msgid "Mozambican metical"
+msgstr ""
+
+#: ../functions/core-functions.php:268
+msgid "Namibian dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:269
+msgid "Nigerian naira"
+msgstr ""
+
+#: ../functions/core-functions.php:270
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr ""
+
+#: ../functions/core-functions.php:271
+msgid "Norwegian krone"
+msgstr ""
+
+#: ../functions/core-functions.php:272
+msgid "Nepalese rupee"
+msgstr ""
+
+#: ../functions/core-functions.php:273
+msgid "New Zealand dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:274
+msgid "Omani rial"
+msgstr ""
+
+#: ../functions/core-functions.php:275
+msgid "Panamanian balboa"
+msgstr ""
+
+#: ../functions/core-functions.php:276
+msgid "Peruvian nuevo sol"
+msgstr ""
+
+#: ../functions/core-functions.php:277
+msgid "Papua New Guinean kina"
+msgstr ""
+
+#: ../functions/core-functions.php:278
+msgid "Philippine peso"
+msgstr ""
+
+#: ../functions/core-functions.php:279
+msgid "Pakistani rupee"
+msgstr ""
+
+#: ../functions/core-functions.php:280
+msgid "Polish z&#x142;oty"
+msgstr ""
+
+#: ../functions/core-functions.php:281
+msgid "Transnistrian ruble"
+msgstr ""
+
+#: ../functions/core-functions.php:282
+msgid "Paraguayan guaran&iacute;"
+msgstr ""
+
+#: ../functions/core-functions.php:283
+msgid "Qatari riyal"
+msgstr ""
+
+#: ../functions/core-functions.php:284
+msgid "Romanian leu"
+msgstr ""
+
+#: ../functions/core-functions.php:285
+msgid "Serbian dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:286
+msgid "Russian ruble"
+msgstr ""
+
+#: ../functions/core-functions.php:287
+msgid "Rwandan franc"
+msgstr ""
+
+#: ../functions/core-functions.php:288
+msgid "Saudi riyal"
+msgstr ""
+
+#: ../functions/core-functions.php:289
+msgid "Solomon Islands dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:290
+msgid "Seychellois rupee"
+msgstr ""
+
+#: ../functions/core-functions.php:291
+msgid "Sudanese pound"
+msgstr ""
+
+#: ../functions/core-functions.php:292
+msgid "Swedish krona"
+msgstr ""
+
+#: ../functions/core-functions.php:293
+msgid "Singapore dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:294
+msgid "Saint Helena pound"
+msgstr ""
+
+#: ../functions/core-functions.php:295
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: ../functions/core-functions.php:296
+msgid "Somali shilling"
+msgstr ""
+
+#: ../functions/core-functions.php:297
+msgid "Surinamese dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:298
+msgid "South Sudanese pound"
+msgstr ""
+
+#: ../functions/core-functions.php:299
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr ""
+
+#: ../functions/core-functions.php:300
+msgid "Syrian pound"
+msgstr ""
+
+#: ../functions/core-functions.php:301
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: ../functions/core-functions.php:302
+msgid "Thai baht"
+msgstr ""
+
+#: ../functions/core-functions.php:303
+msgid "Tajikistani somoni"
+msgstr ""
+
+#: ../functions/core-functions.php:304
+msgid "Turkmenistan manat"
+msgstr ""
+
+#: ../functions/core-functions.php:305
+msgid "Tunisian dinar"
+msgstr ""
+
+#: ../functions/core-functions.php:306
+msgid "Tongan pa&#x2bb;anga"
+msgstr ""
+
+#: ../functions/core-functions.php:307
+msgid "Turkish lira"
+msgstr ""
+
+#: ../functions/core-functions.php:308
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:309
+msgid "New Taiwan dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:310
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: ../functions/core-functions.php:311
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+#: ../functions/core-functions.php:312
+msgid "Ugandan shilling"
+msgstr ""
+
+#: ../functions/core-functions.php:313
+msgid "United States dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:314
+msgid "Uruguayan peso"
+msgstr ""
+
+#: ../functions/core-functions.php:315
+msgid "Uzbekistani som"
+msgstr ""
+
+#: ../functions/core-functions.php:316
+msgid "Venezuelan bol&iacute;var"
+msgstr ""
+
+#: ../functions/core-functions.php:317
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr ""
+
+#: ../functions/core-functions.php:318
+msgid "Vanuatu vatu"
+msgstr ""
+
+#: ../functions/core-functions.php:319
+msgid "Samoan t&#x101;l&#x101;"
+msgstr ""
+
+#: ../functions/core-functions.php:320
+msgid "Central African CFA franc"
+msgstr ""
+
+#: ../functions/core-functions.php:321
+msgid "East Caribbean dollar"
+msgstr ""
+
+#: ../functions/core-functions.php:322
+msgid "West African CFA franc"
+msgstr ""
+
+#: ../functions/core-functions.php:323
+msgid "CFP franc"
+msgstr ""
+
+#: ../functions/core-functions.php:324
+msgid "Yemeni rial"
+msgstr ""
+
+#: ../functions/core-functions.php:325
+msgid "South African rand"
+msgstr ""
+
+#: ../functions/core-functions.php:326
+msgid "Zambian kwacha"
+msgstr ""
+
+#: ../functions/core-functions.php:647
+msgid "Treatment Type"
+msgstr ""
+
+#: ../functions/core-functions.php:694
+msgid "Select Doctor"
+msgstr ""
+
+#: ../functions/core-functions.php:807
+msgid ""
+"If you have booked with us before, please enter your details below. If "
+"you are a new customer, please proceed to the Personal Info section."
+msgstr ""
+
+#: ../functions/core-functions.php:809
+msgid ""
+"If you have booked with us before, please enter your details below. If "
+"you are a new customer, please proceed to the Contact Details section."
+msgstr ""
+
+#: ../functions/core-functions.php:831 ../functions/core-functions.php:833
+msgid "Lost your password?"
+msgstr ""
+
+#: ../functions/core-functions.php:916
+msgid "Select a country / region"
+msgstr ""
+
+#: ../functions/reservation-functions.php:121
+msgid "Select Time"
+msgstr ""
+
+#: ../functions/reservation-functions.php:222
+#, php-format
+msgid ""
+"No Time slots available on the date you have chosen. %1$s to find slot in "
+"next day."
+msgstr ""
+
+#: ../functions/reservation-functions.php:222
+#: ../functions/reservation-functions.php:393
+msgid "Click here"
+msgstr ""
+
+#: ../functions/reservation-functions.php:393
+#, php-format
+msgid ""
+"No Time slots available for next 7 days from the date you have chosen. "
+"%1$s to find slots in next week."
+msgstr ""
+
+#: ../functions/reservation-functions.php:395
+msgid "Showing result for next 7 days from the date you have chosen."
+msgstr ""
+
+#: ../functions/reservation-functions.php:417
+msgid "Total:"
+msgstr ""
+
+#: ../functions/reservation-functions.php:533
+#: ../post-types/dt-staff-post-type.php:749
+#: ../post-types/register-post-types.php:337
+msgid "Sunday"
+msgstr ""
+
+#: ../functions/reservation-functions.php:537
+#: ../post-types/dt-staff-post-type.php:469
+#: ../post-types/register-post-types.php:175
+msgid "Monday"
+msgstr ""
+
+#: ../functions/reservation-functions.php:541
+#: ../post-types/dt-staff-post-type.php:516
+#: ../post-types/register-post-types.php:202
+msgid "Tuesday"
+msgstr ""
+
+#: ../functions/reservation-functions.php:545
+#: ../post-types/dt-staff-post-type.php:563
+#: ../post-types/register-post-types.php:229
+msgid "Wednesday"
+msgstr ""
+
+#: ../functions/reservation-functions.php:549
+#: ../post-types/dt-staff-post-type.php:610
+#: ../post-types/register-post-types.php:256
+msgid "Thursday"
+msgstr ""
+
+#: ../functions/reservation-functions.php:553
+#: ../post-types/dt-staff-post-type.php:657
+#: ../post-types/register-post-types.php:283
+msgid "Friday"
+msgstr ""
+
+#: ../functions/reservation-functions.php:557
+#: ../post-types/dt-staff-post-type.php:703
+#: ../post-types/register-post-types.php:310
+msgid "Saturday"
+msgstr ""
+
+#: ../functions/reservation-functions.php:785
+#: ../functions/reservation-functions.php:945
+#: ../functions/reservation-functions.php:1181
+#: ../functions/reservation-functions.php:1429
+msgid "New Reservation By "
+msgstr ""
+
+#: ../functions/reservation-functions.php:997
+msgid "Service :"
+msgstr ""
+
+#: ../functions/reservation-functions.php:997
+msgid "Time :"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:76
+#: ../post-types/dt-service-post-type.php:162
+#: ../post-types/dt-staff-post-type.php:360
+msgid "Services"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:79
+#: ../post-types/dt-service-post-type.php:165
+msgid "Category"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:80
+#: ../post-types/dt-service-post-type.php:166
+msgid "Categories"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:84
+#: ../post-types/dt-service-post-type.php:133
+#: ../post-types/dt-staff-post-type.php:88
+#: ../post-types/dt-staff-post-type.php:137
+msgid "All"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:86
+#: ../post-types/dt-service-post-type.php:87
+#: ../post-types/dt-service-post-type.php:138
+#: ../post-types/dt-staff-post-type.php:90
+#: ../post-types/dt-staff-post-type.php:91
+#: ../post-types/dt-staff-post-type.php:142
+msgid "Add New"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:88
+#: ../post-types/dt-service-post-type.php:136
+#: ../post-types/dt-staff-post-type.php:92
+#: ../post-types/dt-staff-post-type.php:140
+msgid "Edit"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:89
+#: ../post-types/dt-service-post-type.php:139
+#: ../post-types/dt-staff-post-type.php:93
+#: ../post-types/dt-staff-post-type.php:143
+msgid "New"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:90
+#: ../post-types/dt-staff-post-type.php:94
+msgid "View"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:91
+#: ../post-types/dt-service-post-type.php:132
+#: ../post-types/dt-staff-post-type.php:95
+#: ../post-types/dt-staff-post-type.php:136
+msgid "Search"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:92
+#: ../post-types/dt-staff-post-type.php:96
+msgid "found"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:93
+#: ../post-types/dt-staff-post-type.php:97
+msgid "found in Trash"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:94
+#: ../post-types/dt-service-post-type.php:134
+#: ../post-types/dt-service-post-type.php:135
+#: ../post-types/dt-staff-post-type.php:98
+#: ../post-types/dt-staff-post-type.php:138
+#: ../post-types/dt-staff-post-type.php:139
+msgid "Parent"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:101
+#: ../post-types/dt-staff-post-type.php:105
+msgid "Post type archives of "
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:137
+#: ../post-types/dt-staff-post-type.php:141
+#: ../vc/shortcodes/view_reservations.php:225
+msgid "Update"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:174
+#: ../post-types/dt-staff-post-type.php:177
+msgid "Options"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:180
+msgid "Service Archives Post Layout"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:186
+#: ../post-types/dt-staff-post-type.php:189
+msgid "Post Layout"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:198
+#: ../post-types/dt-staff-post-type.php:219
+msgid "Show Excerpt"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:199
+msgid "YES! to enable service's excerpt"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:206
+msgid "No.of words"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:213
+#: ../post-types/dt-staff-post-type.php:225
+msgid "Bulk Custom Fields"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:219
+#: ../post-types/dt-staff-post-type.php:231
+msgid "Custom Fields"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:220
+msgid "Click button to add custom fields like duration, url and price etc"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:221
+#: ../post-types/dt-staff-post-type.php:233
+msgid "Add New Field"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:222
+#: ../post-types/dt-staff-post-type.php:234
+msgid "Adding New Custom Field"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:227
+#: ../post-types/dt-staff-post-type.php:239
+msgid "Enter Text"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:234
+#: ../post-types/dt-staff-post-type.php:246
+msgid "Permalinks"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:240
+#: ../post-types/dt-service-post-type.php:256
+#: ../post-types/dt-staff-post-type.php:252
+#: ../post-types/dt-staff-post-type.php:268
+msgid "Singular"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:242
+#: ../post-types/dt-service-post-type.php:250
+#: ../post-types/dt-service-post-type.php:258
+#: ../post-types/dt-service-post-type.php:266
+#: ../post-types/dt-staff-post-type.php:254
+#: ../post-types/dt-staff-post-type.php:262
+#: ../post-types/dt-staff-post-type.php:270
+#: ../post-types/dt-staff-post-type.php:278
+msgid "Change as you like, save options & reload."
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:248
+#: ../post-types/dt-service-post-type.php:264
+#: ../post-types/dt-staff-post-type.php:260
+#: ../post-types/dt-staff-post-type.php:276
+msgid "Plural"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:272
+#: ../post-types/dt-staff-post-type.php:284
+msgid "Single"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:272
+#: ../post-types/dt-service-post-type.php:279
+#: ../post-types/dt-staff-post-type.php:284
+#: ../post-types/dt-staff-post-type.php:291
+msgid "Slug"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:273
+msgid "Do not use characters not allowed in links. Use, eg. service-item "
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:273
+#: ../post-types/dt-service-post-type.php:280
+#: ../post-types/dt-staff-post-type.php:285
+#: ../post-types/dt-staff-post-type.php:292
+msgid "After made changes save permalinks."
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:280
+msgid "Do not use characters not allowed in links. Use, eg. service-type "
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:321
+#: ../post-types/dt-staff-post-type.php:357
+msgid "Go to options panel add few custom fields, then return back here."
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:324
+#: ../reservation/menu/calendar/calendar.php:54
+msgid "Select"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:333
+#: ../post-types/dt-staff-post-type.php:81
+#: ../post-types/dt-staff-post-type.php:166
+#: ../templates/reservation/type1.php:60
+#: ../templates/reservation/type3.php:60
+msgid "Staffs"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:340
+msgid "Custom Service Options"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:348
+#: ../post-types/dt-staff-post-type.php:375
+msgid "Gallery Options"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:356
+#: ../post-types/dt-staff-post-type.php:383
+msgid "Gallery Images"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:357
+#: ../post-types/dt-staff-post-type.php:384
+msgid "Simply add images to gallery items."
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:358
+#: ../post-types/dt-staff-post-type.php:385
+msgid "Add Images"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:359
+#: ../post-types/dt-staff-post-type.php:386
+msgid "Edit Images"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:360
+#: ../post-types/dt-staff-post-type.php:387
+msgid "Remove Images"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:368
+#: ../post-types/dt-staff-post-type.php:395
+msgid "Mandatory Fields"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:376
+#: ../post-types/dt-service-post-type.php:435
+#: ../post-types/dt-staff-post-type.php:403
+#: ../post-types/dt-staff-post-type.php:833
+#: ../reservation/dt-payment-post-type.php:237
+msgid "Cost"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:378
+#: ../post-types/dt-staff-post-type.php:405
+msgid "Put a valid price here"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:387
+#: ../post-types/dt-service-post-type.php:436
+msgid "Duration"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:388
+msgid "Select time duration here"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:398
+#: ../post-types/dt-service-post-type.php:406
+#: ../post-types/dt-staff-post-type.php:796
+#: ../post-types/dt-staff-post-type.php:804
+msgid "Optional Fields"
+msgstr ""
+
+#: ../post-types/dt-service-post-type.php:433
+#: ../post-types/dt-staff-post-type.php:831
+msgid "Image"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:83
+#: ../post-types/dt-staff-post-type.php:168
+msgid "Department"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:84
+#: ../post-types/dt-staff-post-type.php:169
+msgid "Departments"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:183
+msgid "Staff Archives Post Layout"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:201
+msgid "Style"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:203
+msgid "Default"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:204
+msgid "Social on hover"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:205
+msgid "Social and Role on hover"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:206
+msgid "Details on hover"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:207
+msgid "Show details & Social on hover"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:208
+msgid "Horizontal"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:209
+msgid "Rounded"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:213
+msgid "Choose post style to display archive page."
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:220
+msgid "YES! to enable staff's excerpt"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:232
+msgid "Click button to add custom fields like cost, url and available etc"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:285
+msgid "Do not use characters not allowed in links. Use, eg. staff-item "
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:292
+msgid "Do not use characters not allowed in links. Use, eg. staff-type "
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:367
+msgid "Custom Staff Options"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:414
+msgid "Role"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:415
+msgid "Put designation here"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:424
+msgid "Email Address"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:425
+msgid "Put a valid email here"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:434
+msgid "Social Profile"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:435
+msgid "Add / Edit social link as you like here"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:453
+msgid "Choose any services for this"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:461
+msgid "Schedule Options"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:475
+#: ../post-types/dt-staff-post-type.php:522
+#: ../post-types/dt-staff-post-type.php:569
+#: ../post-types/dt-staff-post-type.php:616
+#: ../post-types/dt-staff-post-type.php:663
+#: ../post-types/dt-staff-post-type.php:709
+#: ../post-types/dt-staff-post-type.php:755
+msgid "Available From:"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:483
+#: ../post-types/dt-staff-post-type.php:530
+#: ../post-types/dt-staff-post-type.php:577
+#: ../post-types/dt-staff-post-type.php:624
+#: ../post-types/dt-staff-post-type.php:671
+#: ../post-types/dt-staff-post-type.php:717
+#: ../post-types/dt-staff-post-type.php:763
+msgid "Available To:"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:491
+#: ../post-types/dt-staff-post-type.php:538
+#: ../post-types/dt-staff-post-type.php:585
+#: ../post-types/dt-staff-post-type.php:632
+#: ../post-types/dt-staff-post-type.php:678
+#: ../post-types/dt-staff-post-type.php:724
+#: ../post-types/dt-staff-post-type.php:770
+msgid "Break From:"
+msgstr ""
+
+#: ../post-types/dt-staff-post-type.php:499
+#: ../post-types/dt-staff-post-type.php:546
+#: ../post-types/dt-staff-post-type.php:593
+#: ../post-types/dt-staff-post-type.php:640
+#: ../post-types/dt-staff-post-type.php:686
+#: ../post-types/dt-staff-post-type.php:732
+#: ../post-types/dt-staff-post-type.php:778
+msgid "Break To:"
+msgstr ""
+
+#: ../post-types/register-post-types.php:95
+msgid "Booking Options"
+msgstr ""
+
+#: ../post-types/register-post-types.php:104
+#: ../post-types/register-post-types.php:111
+msgid "General Options"
+msgstr ""
+
+#: ../post-types/register-post-types.php:117
+msgid "Enable Service's Categories"
+msgstr ""
+
+#: ../post-types/register-post-types.php:118
+msgid "YES! to enable service's taxonomy"
+msgstr ""
+
+#: ../post-types/register-post-types.php:124
+msgid "Enable Staff's Departments"
+msgstr ""
+
+#: ../post-types/register-post-types.php:125
+msgid "YES! to enable staff's taxonomy"
+msgstr ""
+
+#: ../post-types/register-post-types.php:131
+msgid "Enable Price in Staff & Service dropdown"
+msgstr ""
+
+#: ../post-types/register-post-types.php:132
+msgid "YES! to enable price in Staff & Service dropdown"
+msgstr ""
+
+#: ../post-types/register-post-types.php:138
+msgid "Appointment Page"
+msgstr ""
+
+#: ../post-types/register-post-types.php:141
+#: ../post-types/register-post-types.php:151
+msgid "Choose the page"
+msgstr ""
+
+#: ../post-types/register-post-types.php:142
+msgid "Choose the page for reserve appointment."
+msgstr ""
+
+#: ../post-types/register-post-types.php:148
+msgid "View Reservations Page"
+msgstr ""
+
+#: ../post-types/register-post-types.php:152
+msgid "Choose the page for view reservations."
+msgstr ""
+
+#: ../post-types/register-post-types.php:162
+msgid "Time Schedule"
+msgstr ""
+
+#: ../post-types/register-post-types.php:169
+msgid "Business Hour's Settings"
+msgstr ""
+
+#: ../post-types/register-post-types.php:181
+#: ../post-types/register-post-types.php:208
+#: ../post-types/register-post-types.php:235
+#: ../post-types/register-post-types.php:262
+#: ../post-types/register-post-types.php:289
+#: ../post-types/register-post-types.php:316
+#: ../post-types/register-post-types.php:343
+msgid "From:"
+msgstr ""
+
+#: ../post-types/register-post-types.php:188
+#: ../post-types/register-post-types.php:215
+#: ../post-types/register-post-types.php:242
+#: ../post-types/register-post-types.php:269
+#: ../post-types/register-post-types.php:296
+#: ../post-types/register-post-types.php:323
+#: ../post-types/register-post-types.php:350
+msgid "To:"
+msgstr ""
+
+#: ../post-types/register-post-types.php:368
+#: ../reservation/dt-payment-post-type.php:30
+#: ../reservation/dt-payment-post-type.php:75
+msgid "Payments"
+msgstr ""
+
+#: ../post-types/register-post-types.php:375
+msgid "Payment Settings"
+msgstr ""
+
+#: ../post-types/register-post-types.php:381
+msgid "Currency"
+msgstr ""
+
+#: ../post-types/register-post-types.php:390
+msgid "Currency Position"
+msgstr ""
+
+#: ../post-types/register-post-types.php:392
+msgid "Left ( $36.55 )"
+msgstr ""
+
+#: ../post-types/register-post-types.php:393
+msgid "Right ( 36.55$ )"
+msgstr ""
+
+#: ../post-types/register-post-types.php:394
+msgid "Left with space ( $ 36.55 )"
+msgstr ""
+
+#: ../post-types/register-post-types.php:395
+msgid "Right with space ( 36.55 $ )"
+msgstr ""
+
+#: ../post-types/register-post-types.php:403
+msgid "Number of decimal"
+msgstr ""
+
+#: ../post-types/register-post-types.php:404
+msgid "No.of decimals in price"
+msgstr ""
+
+#: ../post-types/register-post-types.php:411
+msgid "Enable Guest Checkout"
+msgstr ""
+
+#: ../post-types/register-post-types.php:412
+msgid "You can enable guest checkout, without creating account."
+msgstr ""
+
+#: ../post-types/register-post-types.php:418
+msgid "Enable Pay at Arrival"
+msgstr ""
+
+#: ../post-types/register-post-types.php:419
+msgid "You can enable pay at arrival option to pay locally"
+msgstr ""
+
+#: ../post-types/register-post-types.php:425
+msgid "Enable PayPal"
+msgstr ""
+
+#: ../post-types/register-post-types.php:426
+msgid "You can enable paypal express checkout"
+msgstr ""
+
+#: ../post-types/register-post-types.php:432
+msgid "Business Account Username"
+msgstr ""
+
+#: ../post-types/register-post-types.php:433
+msgid ""
+"Enter a valid Merchant account ID or PayPal account email address. All "
+"payments will go to this account."
+msgstr ""
+
+#: ../post-types/register-post-types.php:440
+msgid "Enable Live"
+msgstr ""
+
+#: ../post-types/register-post-types.php:441
+msgid "You can enable live paypal express checkout."
+msgstr ""
+
+#: ../post-types/register-post-types.php:453
+msgid "Notifications"
+msgstr ""
+
+#: ../post-types/register-post-types.php:460
+msgid "Notification Settings"
+msgstr ""
+
+#: ../post-types/register-post-types.php:466
+msgid "Sender Name"
+msgstr ""
+
+#: ../post-types/register-post-types.php:473
+msgid "Sender Email ID"
+msgstr ""
+
+#: ../post-types/register-post-types.php:480
+msgid ""
+"To send scheduled agenda please execute following script with your cron,"
+msgstr ""
+
+#: ../post-types/register-post-types.php:488
+msgid "Admin Email Template"
+msgstr ""
+
+#: ../post-types/register-post-types.php:493
+msgid "Notification to the admin about new Appointment:"
+msgstr ""
+
+#: ../post-types/register-post-types.php:499
+#: ../post-types/register-post-types.php:535
+#: ../post-types/register-post-types.php:571
+#: ../post-types/register-post-types.php:615
+#: ../post-types/register-post-types.php:649
+#: ../post-types/register-post-types.php:683
+#: ../post-types/register-post-types.php:717
+#: ../post-types/register-post-types.php:752
+#: ../post-types/register-post-types.php:785
+#: ../post-types/register-post-types.php:818
+msgid "Subject"
+msgstr ""
+
+#: ../post-types/register-post-types.php:509
+#: ../post-types/register-post-types.php:545
+#: ../post-types/register-post-types.php:581
+#: ../post-types/register-post-types.php:625
+#: ../post-types/register-post-types.php:659
+#: ../post-types/register-post-types.php:693
+#: ../post-types/register-post-types.php:727
+#: ../post-types/register-post-types.php:762
+#: ../post-types/register-post-types.php:795
+#: ../post-types/register-post-types.php:828
+#: ../templates/reservation/type2.php:197 ../vc/register-vc.php:48
+#: ../widgets/modules/class-widget-reservation-form.php:180
+msgid "Message"
+msgstr ""
+
+#: ../post-types/register-post-types.php:529
+msgid "Notification to the admin regarding modified Appointment:"
+msgstr ""
+
+#: ../post-types/register-post-types.php:565
+msgid "Notification to the admin regarding Deleted / Declined Appointment:"
+msgstr ""
+
+#: ../post-types/register-post-types.php:604
+msgid "Staff Email Template"
+msgstr ""
+
+#: ../post-types/register-post-types.php:609
+msgid "New Appoinment Notification:"
+msgstr ""
+
+#: ../post-types/register-post-types.php:643
+msgid "Notification to the staff regarding modified Appointment:"
+msgstr ""
+
+#: ../post-types/register-post-types.php:677
+msgid "Notification to the staff regarding Deleted / Declined Appointment:"
+msgstr ""
+
+#: ../post-types/register-post-types.php:711
+msgid "Evening notification with the next day agenda to Staff Member:"
+msgstr ""
+
+#: ../post-types/register-post-types.php:741
+msgid "Customer Email Template"
+msgstr ""
+
+#: ../post-types/register-post-types.php:746
+msgid "Notification to the client about new Appointment:"
+msgstr ""
+
+#: ../post-types/register-post-types.php:779
+msgid "Notification to the client regarding modified Appointment:"
+msgstr ""
+
+#: ../post-types/register-post-types.php:812
+msgid "Notification to the client regarding Deleted / Declined Appointment:"
+msgstr ""
+
+#: ../post-types/register-post-types.php:844
+msgid "Success Message"
+msgstr ""
+
+#: ../post-types/register-post-types.php:848
+msgid "Success. You got a appointment to experience our excellent service."
+msgstr ""
+
+#: ../post-types/register-post-types.php:854
+msgid "Error Message"
+msgstr ""
+
+#: ../post-types/register-post-types.php:858
+msgid "Oops! You have cancelled the payment process :"
+msgstr ""
+
+#: ../post-types/register-post-types.php:873
+msgid "Backup"
+msgstr ""
+
+#: ../post-types/register-post-types.php:880
+msgid "You can save your current options. Download a Backup and Import."
+msgstr ""
+
+#: ../post-types/register-post-types.php:900
+#: ../post-types/register-post-types.php:905
+msgid "WeDesignTech Settings"
+msgstr ""
+
+#: ../reservation/cron/send_agenda_cron.php:62
+msgid "Agenda"
+msgstr ""
+
+#: ../reservation/cron/send_agenda_cron.php:65
+msgid "Client"
+msgstr ""
+
+#: ../reservation/cron/send_agenda_cron.php:66
+msgid "Description"
+msgstr ""
+
+#: ../reservation/cron/send_agenda_cron.php:68
+#: ../templates/reservation/type1.php:70
+msgid "Time"
+msgstr ""
+
+#: ../reservation/dt-calendar-menu.php:56
+#: ../reservation/dt-customer-post-type.php:32
+#: ../reservation/dt-payment-post-type.php:32
+#: ../reservation/menu/calendar/calendar.php:2
+msgid "Calendar"
+msgstr ""
+
+#: ../reservation/dt-calendar-menu.php:85
+msgid "Add New Reservation"
+msgstr ""
+
+#: ../reservation/dt-calendar-menu.php:86
+msgid "Edit Reservation"
+msgstr ""
+
+#: ../reservation/dt-calendar-menu.php:148
+msgid "Select Service"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:30
+#: ../reservation/dt-customer-post-type.php:75
+msgid "Customers"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:31
+#: ../reservation/dt-customer-post-type.php:168
+#: ../reservation/dt-payment-post-type.php:206
+#: ../reservation/menu/calendar/calendar.php:52
+msgid "Customer"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:33
+msgid "Add Customer"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:34
+msgid "Add New Customer"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:35
+#: ../reservation/dt-customer-post-type.php:36
+msgid "Edit Customer"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:37
+msgid "New Customer"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:38
+#: ../reservation/dt-customer-post-type.php:39
+msgid "View Customer"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:40
+msgid "Search Customers"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:41
+msgid "No Customers found"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:42
+msgid "No Customers found in Trash"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:43
+msgid "Parent Customer:"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:49
+msgid "This is Custom Post type named as Customers"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:82
+msgid "Customer Options"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:90
+#: ../reservation/dt-customer-post-type.php:109
+#: ../reservation/dt-customer-post-type.php:191
+#: ../reservation/dt-payment-post-type.php:128
+#: ../reservation/dt-payment-post-type.php:147
+#: ../templates/reservation/type1.php:181
+#: ../templates/reservation/type2.php:161
+#: ../templates/reservation/type3.php:164 ../vc/register-vc.php:47
+msgid "Address"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:97
+#: ../reservation/dt-payment-post-type.php:135
+#: ../templates/reservation/type1.php:173
+#: ../templates/reservation/type2.php:153
+#: ../templates/reservation/type3.php:156
+msgid "First Name"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:103
+#: ../reservation/dt-payment-post-type.php:141
+#: ../templates/reservation/type1.php:177
+#: ../templates/reservation/type2.php:157
+#: ../templates/reservation/type3.php:160
+msgid "Last Name"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:115
+#: ../reservation/dt-payment-post-type.php:153
+msgid "Country"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:126
+#: ../reservation/dt-payment-post-type.php:164
+#: ../templates/reservation/type1.php:195
+#: ../templates/reservation/type2.php:179
+#: ../templates/reservation/type3.php:178
+msgid "City"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:132
+#: ../reservation/dt-payment-post-type.php:170
+#: ../templates/reservation/type1.php:199
+#: ../templates/reservation/type2.php:175
+#: ../templates/reservation/type3.php:182
+msgid "State"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:138
+#: ../reservation/dt-payment-post-type.php:176
+#: ../templates/reservation/type1.php:203
+#: ../templates/reservation/type2.php:183
+#: ../templates/reservation/type3.php:186
+msgid "Pin Code"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:144
+#: ../reservation/dt-payment-post-type.php:182
+#: ../templates/reservation/type1.php:207
+#: ../templates/reservation/type2.php:187
+#: ../templates/reservation/type3.php:190
+msgid "Phone"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:153
+#: ../reservation/dt-payment-post-type.php:191
+msgid "Notes"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:159
+#: ../reservation/dt-payment-post-type.php:197
+msgid "Email Id"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:171
+#: ../reservation/dt-payment-post-type.php:215
+msgid "Guest"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:192
+msgid "User"
+msgstr ""
+
+#: ../reservation/dt-customer-post-type.php:231
+msgid "Edit Profile"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:31
+msgid "Payment"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:33
+msgid "Add Payment"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:34
+msgid "Add New Payment"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:35
+#: ../reservation/dt-payment-post-type.php:36
+msgid "Edit Payment"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:37
+msgid "New Payment"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:38
+#: ../reservation/dt-payment-post-type.php:39
+msgid "View Payment"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:40
+msgid "Search Payments"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:41
+msgid "No Payments found"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:42
+msgid "No Payments found in Trash"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:43
+msgid "Parent Payment:"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:49
+msgid "This is Payment Post type named as Payments"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:82
+msgid "Payment Options"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:89
+msgid "Orders"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:96
+#: ../reservation/dt-payment-post-type.php:235
+msgid "Order Date"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:101
+#: ../reservation/dt-payment-post-type.php:236
+msgid "Order Type"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:111
+msgid "Order Status"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:116
+#: ../vc/shortcodes/view_reservations.php:106
+msgid "Transaction ID"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:121
+#: ../vc/shortcodes/view_reservations.php:104
+msgid "Amount"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:238
+#: ../vc/shortcodes/view_reservations.php:107
+msgid "Status"
+msgstr ""
+
+#: ../reservation/dt-payment-post-type.php:276
+#: ../vc/shortcodes/view_reservations.php:138
+msgid "Completed"
+msgstr ""
+
+#: ../reservation/menu/calendar/calendar.php:3
+msgid "Reservation System"
+msgstr ""
+
+#: ../reservation/menu/calendar/calendar.php:33
+msgid "Start Time"
+msgstr ""
+
+#: ../reservation/menu/calendar/calendar.php:35
+msgid "Select Start Time"
+msgstr ""
+
+#: ../reservation/menu/calendar/calendar.php:40
+msgid "End Time"
+msgstr ""
+
+#: ../reservation/menu/calendar/calendar.php:42
+msgid "Select End Time"
+msgstr ""
+
+#: ../reservation/menu/calendar/calendar.php:71
+msgid "Body"
+msgstr ""
+
+#: ../templates/archive-service.php:83 ../templates/taxonomy-category.php:83
+#: ../vc/shortcodes/service_item.php:62
+#: ../widgets/modules/class-widget-service-item.php:133
+msgid "Duration : "
+msgstr ""
+
+#: ../templates/archive-service.php:124 ../templates/archive-staff.php:116
+#: ../templates/taxonomy-category.php:124
+#: ../templates/taxonomy-department.php:116
+msgid "Older Posts "
+msgstr ""
+
+#: ../templates/archive-service.php:125 ../templates/archive-staff.php:117
+#: ../templates/taxonomy-category.php:125
+#: ../templates/taxonomy-department.php:117
+msgid " Newer Posts"
+msgstr ""
+
+#: ../templates/reservation/type1.php:22
+#: ../templates/reservation/type2.php:263
+#: ../templates/reservation/type3.php:22
+msgid "<p>To continue or make another one, please click this button</p>"
+msgstr ""
+
+#: ../templates/reservation/type1.php:23
+#: ../templates/reservation/type2.php:264
+#: ../templates/reservation/type3.php:23
+msgid "Back to Reservation"
+msgstr ""
+
+#: ../templates/reservation/type1.php:29
+#: ../templates/reservation/type2.php:270
+#: ../templates/reservation/type3.php:29
+#: ../widgets/modules/class-widget-view-reservations.php:13
+msgid "View Reservations"
+msgstr ""
+
+#: ../templates/reservation/type1.php:51
+#: ../templates/reservation/type3.php:51
+msgid "Available Services"
+msgstr ""
+
+#: ../templates/reservation/type1.php:73
+msgid "I am available on"
+msgstr ""
+
+#: ../templates/reservation/type1.php:80
+msgid "Start"
+msgstr ""
+
+#: ../templates/reservation/type1.php:87
+msgid "End"
+msgstr ""
+
+#: ../templates/reservation/type1.php:98
+msgid "Show Time"
+msgstr ""
+
+#: ../templates/reservation/type1.php:113
+#: ../templates/reservation/type3.php:99
+msgid "Booking Details"
+msgstr ""
+
+#: ../templates/reservation/type1.php:115
+#: ../templates/reservation/type3.php:102
+msgid "Date & Time:"
+msgstr ""
+
+#: ../templates/reservation/type1.php:116
+#: ../templates/reservation/type3.php:103
+msgid "Service Price"
+msgstr ""
+
+#: ../templates/reservation/type1.php:117
+#: ../templates/reservation/type3.php:104
+msgid "Staff Cost"
+msgstr ""
+
+#: ../templates/reservation/type1.php:123
+msgid "Update Details"
+msgstr ""
+
+#: ../templates/reservation/type1.php:135
+#: ../templates/reservation/type2.php:115
+#: ../templates/reservation/type3.php:118
+msgid "Returning customer?"
+msgstr ""
+
+#: ../templates/reservation/type1.php:135
+#: ../templates/reservation/type2.php:115
+#: ../templates/reservation/type3.php:118
+msgid "Click here to login"
+msgstr ""
+
+#: ../templates/reservation/type1.php:144
+#: ../templates/reservation/type3.php:127
+msgid "Personal Info"
+msgstr ""
+
+#: ../templates/reservation/type1.php:211
+#: ../templates/reservation/type3.php:194 ../vc/register-vc.php:46
+#: ../vc/shortcodes/reservation_form.php:51
+msgid "Email"
+msgstr ""
+
+#: ../templates/reservation/type1.php:220
+#: ../templates/reservation/type3.php:203
+msgid "Choose Payment"
+msgstr ""
+
+#: ../templates/reservation/type1.php:222
+#: ../templates/reservation/type3.php:205
+msgid "Pay At Arrival"
+msgstr ""
+
+#: ../templates/reservation/type1.php:225
+#: ../templates/reservation/type3.php:208
+msgid "Pay with Paypal"
+msgstr ""
+
+#: ../templates/reservation/type1.php:228
+#: ../templates/reservation/type3.php:211
+msgid "Pay using Stripe"
+msgstr ""
+
+#: ../templates/reservation/type1.php:234
+#: ../templates/reservation/type3.php:217
+msgid "Note"
+msgstr ""
+
+#: ../templates/reservation/type1.php:237
+#: ../templates/reservation/type3.php:220
+msgid "Captcha"
+msgstr ""
+
+#: ../templates/reservation/type1.php:250
+#: ../templates/reservation/type2.php:202
+#: ../templates/reservation/type3.php:233
+msgid "I agree to the terms and conditions."
+msgstr ""
+
+#: ../templates/reservation/type1.php:257
+#: ../templates/reservation/type2.php:237
+#: ../templates/reservation/type3.php:240
+msgid "loading"
+msgstr ""
+
+#: ../templates/reservation/type1.php:260
+#: ../templates/reservation/type3.php:243
+msgid "Schedule It"
+msgstr ""
+
+#: ../templates/reservation/type2.php:67
+msgid "Go Back and edit"
+msgstr ""
+
+#: ../templates/reservation/type2.php:73
+msgid "Select Service & Date"
+msgstr ""
+
+#: ../templates/reservation/type2.php:95
+msgid "Select Date"
+msgstr ""
+
+#: ../templates/reservation/type2.php:99
+msgid "Check available time"
+msgstr ""
+
+#: ../templates/reservation/type2.php:123
+msgid "Contact Details"
+msgstr ""
+
+#: ../templates/reservation/type2.php:191
+#: ../vc/shortcodes/view_reservations.php:200
+msgid "Email:"
+msgstr ""
+
+#: ../templates/reservation/type2.php:206
+msgid "Submit Details"
+msgstr ""
+
+#: ../templates/reservation/type2.php:213
+msgid "Confirm Details"
+msgstr ""
+
+#: ../templates/reservation/type2.php:241
+msgid "Check & Confirm"
+msgstr ""
+
+#: ../templates/reservation/type3.php:77
+msgid "Show Calendar"
+msgstr ""
+
+#: ../templates/single-staff.php:55
+msgid "Follow us on"
+msgstr ""
+
+#: ../templates/single-staff.php:63
+msgid "Book an Appointment"
+msgstr ""
+
+#: ../vc/modules/reservation_form.php:3
+#: ../widgets/modules/class-widget-reservation-form.php:13
+msgid "Reservation Form"
+msgstr ""
+
+#: ../vc/modules/reservation_form.php:6
+#: ../vc/modules/reserve_appointment.php:6 ../vc/modules/service_item.php:11
+#: ../vc/modules/service_list.php:11 ../vc/modules/staff_item.php:11
+#: ../wedesigntech-ultimate-booking-addon.php:169
+msgid "Booking Manager"
+msgstr ""
+
+#: ../vc/modules/reservation_form.php:7
+msgid "Show the reservation form."
+msgstr ""
+
+#: ../vc/modules/reservation_form.php:15
+#: ../vc/modules/reserve_appointment.php:15
+msgid "Enter title here."
+msgstr ""
+
+#: ../vc/modules/reservation_form.php:16
+#: ../vc/shortcodes/reservation_form.php:19
+#: ../widgets/modules/class-widget-reservation-form.php:29
+#: ../widgets/modules/class-widget-view-reservations.php:29
+msgid "Appointment"
+msgstr ""
+
+#: ../vc/modules/reserve_appointment.php:7
+msgid "Show reserve appointment template."
+msgstr ""
+
+#: ../vc/modules/reserve_appointment.php:16
+#: ../vc/shortcodes/reserve_appointment.php:13
+#: ../widgets/modules/class-widget-reserve-appointment.php:29
+msgid "Make an Appointment"
+msgstr ""
+
+#: ../vc/modules/reserve_appointment.php:29
+#: ../widgets/modules/class-widget-reserve-appointment.php:39
+#: ../widgets/modules/class-widget-staff-item.php:52
+msgid "Type - III"
+msgstr ""
+
+#: ../vc/modules/service_item.php:20
+msgid ""
+"Enter IDs of services to display. More than one ids with comma(,) "
+"seperated. Leave empty to display all items."
+msgstr ""
+
+#: ../vc/modules/service_list.php:29
+msgid "Enter service category & pick."
+msgstr ""
+
+#: ../vc/modules/staff_item.php:20
+msgid "Enter ID of staff to display."
+msgstr ""
+
+#: ../vc/register-vc.php:39
+msgid "Please select staff and service!"
+msgstr ""
+
+#: ../vc/register-vc.php:44
+msgid "Name:"
+msgstr ""
+
+#: ../vc/register-vc.php:45 ../vc/shortcodes/view_reservations.php:196
+msgid "Phone:"
+msgstr ""
+
+#: ../vc/register-vc.php:50
+msgid "Please Select Service and Date!"
+msgstr ""
+
+#: ../vc/shortcodes/base.php:121
+msgid "Post Types"
+msgstr ""
+
+#: ../vc/shortcodes/reservation_form.php:60
+msgid "Type of Service"
+msgstr ""
+
+#: ../vc/shortcodes/reservation_form.php:94
+msgid "Preferred Date"
+msgstr ""
+
+#: ../vc/shortcodes/reservation_form.php:104
+msgid "Name of Staff"
+msgstr ""
+
+#: ../vc/shortcodes/reservation_form.php:136
+msgid "Fix an appointment"
+msgstr ""
+
+#: ../vc/shortcodes/reservation_form.php:146
+#: ../widgets/modules/class-widget-reservation-form.php:203
+msgid ""
+"Please create Reservation template page in order to make this shortcode "
+"work properly!"
+msgstr ""
+
+#: ../vc/shortcodes/service_item.php:101
+#: ../vc/shortcodes/service_list.php:102 ../vc/shortcodes/staff_item.php:85
+#: ../widgets/modules/class-widget-service-item.php:172
+#: ../widgets/modules/class-widget-service-list.php:168
+#: ../widgets/modules/class-widget-staff-item.php:242
+msgid "Nothing Found."
+msgstr ""
+
+#: ../vc/shortcodes/service_item.php:102
+#: ../vc/shortcodes/service_list.php:103 ../vc/shortcodes/staff_item.php:86
+#: ../widgets/modules/class-widget-service-item.php:173
+#: ../widgets/modules/class-widget-service-list.php:169
+#: ../widgets/modules/class-widget-staff-item.php:243
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: ../vc/shortcodes/staff_item.php:76
+#: ../widgets/modules/class-widget-staff-item.php:150
+msgid "Monday to Friday : "
+msgstr ""
+
+#: ../vc/shortcodes/staff_item.php:76
+#: ../widgets/modules/class-widget-staff-item.php:150
+msgid " hrs"
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:22
+msgid "Please logged in to view your complete reservations!"
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:32
+msgid "Welcome "
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:33
+msgid "Order Details:"
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:88
+msgid ""
+"Sorry you haven't made any purchases yet. Please follow the button to "
+"made your first reservation."
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:93
+msgid "Book Reservation"
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:101
+msgid "Order #"
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:155
+msgid "Profile Details:"
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:162
+msgid "First Name:"
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:166
+msgid "Last Name:"
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:170
+msgid "Address:"
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:184
+msgid "State:"
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:188
+msgid "City:"
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:192
+msgid "Pin Code:"
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:204
+msgid "Website"
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:208
+msgid "Password:"
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:212
+msgid "Repeat Password:"
+msgstr ""
+
+#: ../vc/shortcodes/view_reservations.php:217
+msgid "Biographical Information"
+msgstr ""
+
+#: ../wedesigntech-ultimate-booking-addon.php:153
+#, php-format
+msgid "\"%1$s\" recommended \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: ../wedesigntech-ultimate-booking-addon.php:154
+msgid "WeDesignTech Ultimate Booking Addon"
+msgstr ""
+
+#: ../wedesigntech-ultimate-booking-addon.php:155
+msgid "Elementor"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reservation-form.php:23
+#: ../widgets/modules/class-widget-reserve-appointment.php:23
+#: ../widgets/modules/class-widget-service-item.php:34
+#: ../widgets/modules/class-widget-service-list.php:34
+#: ../widgets/modules/class-widget-staff-item.php:34
+#: ../widgets/modules/class-widget-view-reservations.php:23
+msgid "General"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reservation-form.php:51
+#: ../widgets/modules/class-widget-reserve-appointment.php:46
+#: ../widgets/modules/class-widget-service-list.php:78
+#: ../widgets/modules/class-widget-view-reservations.php:35
+msgid ""
+"Style particular element differently - add a class name and refer to it "
+"in custom CSS"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reservation-form.php:80
+msgid "Hello Iam!"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reservation-form.php:89
+msgid "Iam looking it for treatments"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reservation-form.php:122
+msgid "Date to fix a surgery or treatments"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reservation-form.php:133
+msgid "Your Contact Number"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reservation-form.php:139
+msgid "Your Email Id"
+msgstr ""
+
+#: ../widgets/modules/class-widget-reservation-form.php:188
+msgid "Send"
+msgstr ""
+
+#: ../widgets/modules/class-widget-staff-item.php:67
+msgid "Show appointment?"
+msgstr ""
+
+#: ../widgets/modules/class-widget-staff-item.php:207
+msgid "Specialized In :"
+msgstr ""
+
+#: ../widgets/modules/class-widget-staff-item.php:212
+msgid "Description :"
+msgstr ""
+
+#: ../widgets/modules/class-widget-staff-item.php:228
+msgid "Social Media :"
+msgstr ""

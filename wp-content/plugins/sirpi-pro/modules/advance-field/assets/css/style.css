@@ -1,0 +1,30 @@
+
+.wdt-widget-advanced-button {
+    /* background-image: linear-gradient(-45deg, var(--wdtPrimaryColor) 1%, var(--wdtSecondaryColor) 99%); */
+    transition: var(--wdtBaseTransition);
+    width: 100%;
+    /* padding: 0.5rem 1.5rem; */
+    padding: 0;
+    position: absolute;
+    bottom: 0;
+    letter-spacing: 2.6px;
+    text-align: center;
+    font-weight: var(--wdtFontWeight_Ext);
+    font-size: calc(var(--wdtFontSize_Ext) - 2px);
+    text-transform: uppercase;
+    min-height: 90px;
+    display: grid;
+    place-items: center;
+    background-color: var(--wdtBodyBGColor);
+    clip-path: polygon(100% 100%, 0% 100% , 0.00% 12.22%, 2.00% 10.99%, 4.00% 7.84%, 6.00% 4.18%, 8.00% 1.61%, 10.00% 1.29%, 12.00% 3.34%, 14.00% 6.88%, 16.00% 10.31%, 18.00% 12.14%, 20.00% 11.54%, 22.00% 8.78%, 24.00% 5.08%, 26.00% 2.09%, 28.00% 1.13%, 30.00% 2.62%, 32.00% 5.90%, 34.00% 9.52%, 36.00% 11.88%, 38.00% 11.93%, 40.00% 9.64%, 42.00% 6.04%, 44.00% 2.71%, 46.00% 1.14%, 48.00% 2.01%, 50.00% 4.95%, 52.00% 8.65%, 54.00% 11.47%, 56.00% 12.16%, 58.00% 10.42%, 60.00% 7.02%, 62.00% 3.46%, 64.00% 1.32%, 66.00% 1.55%, 68.00% 4.05%, 70.00% 7.71%, 72.00% 10.90%, 74.00% 12.22%, 76.00% 11.08%, 78.00% 7.98%, 80.00% 4.30%, 82.00% 1.67%, 84.00% 1.25%, 86.00% 3.23%, 88.00% 6.74%, 90.00% 10.21%, 92.00% 12.11%, 94.00% 11.60%, 96.00% 8.91%, 98.00% 5.22%, 100.00% 2.17%);
+}
+.wdt-widget-advanced-button a  {
+    position: relative;
+}
+.wdt-widget-advanced-button a:before {
+    position: absolute;content: "";width: 6px;height: 6px; border: 1px solid currentColor;border-width: 1px 1px 0 0;
+    top: 50%;transform: translateY(-50%) rotate(45deg);-webkit-transform: translateY(-50%) rotate(45deg);right: -10px;
+}
+.wdt-widget-advanced-button:hover a{
+    color: var(--wdtLinkHoverColor);
+}

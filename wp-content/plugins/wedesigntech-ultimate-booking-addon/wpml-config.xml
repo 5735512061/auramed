@@ -1,0 +1,71 @@
+<wpml-config>
+
+    <custom-fields>
+		  <custom-field action="copy">_custom_settings</custom-field>
+		  <custom-field action="copy">_info</custom-field>
+    </custom-fields>
+
+    <custom-types>
+    	<custom-type translate="1">dt_service</custom-type>
+    	<custom-type translate="1">dt_staff</custom-type>
+        <custom-type translate="1">dt_customers</custom-type>
+        <custom-type translate="1">dt_payments</custom-type>
+    </custom-types>
+
+    <taxonomies>
+        <taxonomy translate="1">dt_service_category</taxonomy>
+        <taxonomy translate="1">dt_staff_department</taxonomy>
+        <taxonomy translate="0">dt_dummy</taxonomy>
+    </taxonomies>
+
+    <admin-texts>
+        <key name="_cs_options">
+        	<key name="price-decimal"/>
+        	<key name="paypal-username"/>
+        	<key name="stripe-publishable-api-key"/>
+        	<key name="stripe-secret-api-key"/>
+			<key name="notification_sender_name"/>
+			<key name="notification_sender_email"/>
+			<key name="appointment_notification_to_admin_subject"/>
+			<key name="appointment_notification_to_admin_message"/>
+			<key name="modified_appointment_notification_to_admin_subject"/>
+			<key name="modified_appointment_notification_to_admin_message"/>
+			<key name="deleted_appointment_notification_to_admin_subject"/>
+			<key name="deleted_appointment_notification_to_admin_message"/>
+			<key name="appointment_notification_to_staff_subject"/>
+			<key name="appointment_notification_to_staff_message"/>
+			<key name="modified_appointment_notification_to_staff_subject"/>
+			<key name="modified_appointment_notification_to_staff_message"/>
+			<key name="deleted_appointment_notification_to_staff_subject"/>
+			<key name="deleted_appointment_notification_to_staff_message"/>
+			<key name="agenda_to_staff_subject"/>
+			<key name="agenda_to_staff_message"/>
+			<key name="appointment_notification_to_client_subject"/>
+			<key name="appointment_notification_to_client_message"/>
+			<key name="modified_appointment_notification_to_client_subject"/>
+			<key name="modified_appointment_notification_to_client_message"/>
+			<key name="deleted_appointment_notification_to_client_subject"/>
+			<key name="deleted_appointment_notification_to_client_message"/>
+			<key name="success_message"/>
+			<key name="error_message"/>
+			<key name="service-custom-fields">
+				<key name="service-custom-fields-text"/>
+			</key>
+			<key name="singular-service-text"/>
+			<key name="plural-service-text"/>
+			<key name="singular-service-cat-text"/>
+			<key name="plural-service-cat-text"/>
+			<key name="single-service-slug"/>
+			<key name="service-cat-slug"/>
+			<key name="staff-custom-fields">
+				<key name="staff-custom-fields-text"/>
+			</key>
+			<key name="singular-staff-text"/>
+			<key name="plural-staff-text"/>
+			<key name="singular-staff-department-text"/>
+			<key name="plural-staff-department-text"/>
+			<key name="single-staff-slug"/>
+			<key name="staff-department-slug"/>
+        </key>
+    </admin-texts>
+</wpml-config>

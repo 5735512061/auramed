@@ -1,0 +1,1 @@
+<?php echo apply_filters( 'sirpi_footer_get_template_part', sirpi_get_template_part( 'footer', 'templates/footer', '', array() ) ); ?>

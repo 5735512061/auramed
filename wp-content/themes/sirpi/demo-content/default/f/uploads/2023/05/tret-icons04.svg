@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+	<style type="text/css">
+	.icons_2{fill:none;stroke:currentcolor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	</style>
+	<g>
+		<g class="rotate-icon">
+			<g>
+				<path class="icons_2" d="M2.8,50.1C2.8,23.9,23.8,2.9,50,2.9c15.7,0,30.4,7.6,39.3,20.5"/>
+				<path class="icons_2" d="M89.3,12.3v11h-11"/>
+			</g>
+			<g>
+				<path class="icons_2" d="M97.3,49.9c0,26.1-21.1,47.2-47.2,47.2c-15.7,0-30.4-7.6-39.3-20.5"/>
+				<path class="icons_2" d="M10.7,87.8v-11h11"/>
+			</g>
+		</g>
+		<g>
+			<path class="icons_2" d="M37.5,43.4l-12.6,7.3v14.5l12.6,7.3L50,65.3V50.8L37.5,43.4z"/>
+			<line class="icons_2" x1="31.2" y1="61.6" x2="31.2" y2="54.4"/>
+			<line class="icons_2" x1="37.5" y1="72.6" x2="37.5" y2="87.1"/>
+			<path class="icons_2" d="M62.5,43.4L50,50.8v14.5l12.6,7.3l12.6-7.3V50.8L62.5,43.4z"/>
+			<line class="icons_2" x1="68.8" y1="61.6" x2="62.5" y2="65.3"/>
+			<line class="icons_2" x1="75.2" y1="50.8" x2="87.8" y2="43.4"/>
+			<path class="icons_2" d="M50,21.6l-12.6,7.3v14.5L50,50.8l12.6-7.3V28.9L50,21.6z"/>
+			<line class="icons_2" x1="50" y1="28.9" x2="56.3" y2="32.6"/>
+			<line class="icons_2" x1="37.5" y1="28.9" x2="24.8" y2="21.6"/>
+		</g>
+	</g>
+</svg>

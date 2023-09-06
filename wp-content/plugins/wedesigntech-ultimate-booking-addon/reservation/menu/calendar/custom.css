@@ -1,0 +1,20 @@
+/* Calendar CSS */
+.wc-toolbar { margin: 0; padding: 2px 5px; font-size: 12px; }
+.wc-toolbar h1 { font-weight: bold; font-size: 14px; }
+.wc-toolbar .ui-buttonset { font-size: 0.8em; }
+.wc-toolbar .wc-title { text-align: left; }
+.wc-header { font-size: 11px; }
+.wc-grid-timeslot-header, .wc-header .wc-time-column-header { width: 45px; }
+.wc-time-header-cell { font-size: 11px; }
+.wc-business-hours .wc-time-header-cell { font-weight: bold; }
+.wc-am-pm, .wc-business-hours .wc-am-pm { font-size: 1em; }
+.wc-header .wc-today { font-weight: bold; }
+
+#event_edit_container { display: none;}
+#event_edit_container label { display: block; margin-top: 1em; margin-bottom: 0.5em;  }
+
+/*** Calendar List Styles ***/
+
+#dt-calendar-wrapper #dt-members-list li{display:inline-block; margin:0px 5px 5px 0px;}
+#dt-calendar-wrapper #dt-members-list li a{text-decoration:none; background-color:#0073aa; color:#FFF; padding:5px 10px; transition:all .3s linear;}
+#dt-calendar-wrapper #dt-members-list li a:hover, #dt-calendar-wrapper #dt-members-list li a.active{color:#0073aa; background-color:#FFF;} 

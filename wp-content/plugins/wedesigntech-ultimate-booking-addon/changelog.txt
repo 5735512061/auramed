@@ -1,0 +1,10 @@
+===== WeDesignTech Ultimate Booking Addon =====
+
+WeDesignTech Ultimate Booking Addon adds complete booking modules to built booking section in your site.
+
+
+== Changelog ==
+
+= 1.0.0 =
+
+    * First release!

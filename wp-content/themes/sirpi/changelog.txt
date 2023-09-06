@@ -1,0 +1,13 @@
+*** Sirpi WordPress Theme Changelog ***
+
+Version 1.0.2
+
+    * RTL demo content added and updated
+
+Version 1.0.1
+
+    * Demo content added
+
+Version 1.0.0
+
+    * First release!
